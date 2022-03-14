@@ -1,4 +1,4 @@
-# Tugas-1-Desktop-Programming-
+# Tugas-1-Desktop-Programming
 
 NAMA : MIRYATI
 
